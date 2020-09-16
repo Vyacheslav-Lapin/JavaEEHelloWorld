@@ -20,3 +20,13 @@ L
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+8
+Makefile,8/3/836efb6e25a091dcb4ff8e1dbb2f0be6a5cbf14c
+R
+"src/main/java/hw/jaxb/Product.java,a/0/a05831765829e91fa84be6cc32cbd6af31781002
+Z
+*src/main/java/hw/jaxb/WriteProductXml.java,0/e/0e74de219ecd13e3c3679e984ca925dfcbd54983
+V
+&src/main/java/hw/jaxb/ProductList.java,c/c/cc03b63c8339852e98a43b2dde6747dc14d099ae
+W
+'src/main/java/hw/jaxb/WritductList.java,5/d/5ddcacd68cb38d34a8a5bc9b5143c9ea9fa20536
